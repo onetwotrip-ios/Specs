@@ -15,7 +15,7 @@
   "social_media_url": "http://twitter.com/mopub",
   "source": {
     "git": "https://github.com/onetwotrip-ios/mopub-ios-sdk.git",
-    "tag": "4.12.0"
+    "commit": "406d23d5b763d0e4f45ecf31e4ce937373c56b8d"
   },
   "requires_arc": true,
   "platforms": {
